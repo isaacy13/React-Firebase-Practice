@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# React-Firebase Practice
+Practicing with integrating Firebase with a web app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
